@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm wakuroshi 🍚
 
-<!--
-**wakuroshi/wakuroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📟 Aspiring Embedded Systems & Firmware Engineer
 
-Here are some ideas to get you started:
+I am a Computer Engineering student dedicated to mastering the intersection of hardware and software. I'd like to contribute to FOSS projects in this matter to learn, improve, and help others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+
+- **Languages:** **C** (Core focus), Python (Scripting/Automation), Java.
+- **Tools & Environments:** GNU/Linux, Git, LTSpice (Circuit Simulation), Wokwi (Hardware Prototyping).
+- **Science:** DC/AC Circuit Theory, Boolean Algebra, Computer Architecture.
+
+### 🎯 Long-Term Goal
+
+My roadmap is aimed at high-performance computing and semiconductor companies. Focusing on researching how to optimize computational devices throught software like drivers, firmware and such.
